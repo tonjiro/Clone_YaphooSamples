@@ -1,0 +1,2 @@
+# Clone_YaphooSamples
+Yaphooが公開しているリポジトリのクローンを生成
